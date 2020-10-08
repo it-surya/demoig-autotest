@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>SIT</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Url for IG</description>
+      <initValue>'https://www.instagram.com/'</initValue>
+      <name>IG_Url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Test 1'</initValue>
+      <name>nama</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

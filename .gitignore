@@ -1,0 +1,14 @@
+*.class
+*.swp
+Libs/TempTestCase*
+Libs/TempTestSuite*
+bin/lib/TempTestCase*
+bin/lib/CustomKeywords.class
+bin/lib/internal/GlobalVariable.class
+bin/Test Suites/
+bin/
+Reports/
+appium.log
+*.classpath
+*.project
+.settings/
